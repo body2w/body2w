@@ -1,6 +1,6 @@
-![Header](https://i.imgur.com/7ZVQNzp.png)
+![Header]
 
-# Hi there 👋 I'm Abdullah "Boudi" Ayman
+# Hi there 👋 I'm Abdullah Ayman
 
 ### 👨‍💻 Frontend Developer | Aspiring Full-Stack Developer | Always Learning
 
@@ -18,11 +18,11 @@ Besides coding, I enjoy helping others, solving challenges, and trying new thing
 
 ## 📊 GitHub Stats
 
-![Boudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Boudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=body2w&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=body2w&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Visitors Count
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue)
+![Visitor Badge](https://komarev.com/ghpvc/?username=body2w&style=flat-square&color=blue)
