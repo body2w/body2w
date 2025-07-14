@@ -1,16 +1,28 @@
-## Hi there 👋
+![Header](https://i.imgur.com/7ZVQNzp.png)
 
-<!--
-**body2w/body2w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Abdullah "Boudi" Ayman
 
-Here are some ideas to get you started:
+### 👨‍💻 Frontend Developer | Aspiring Full-Stack Developer | Always Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+I'm a high school student and passionate self-learner who enjoys building interactive web applications.  
+I love exploring new technologies, learning by doing, and improving my coding skills every day.
+
+I’m currently diving deeper into front-end development with a goal to master full-stack soon.  
+Besides coding, I enjoy helping others, solving challenges, and trying new things.
+
+---
+
+## 📊 GitHub Stats
+
+![Boudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 🌐 Visitors Count
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue)
