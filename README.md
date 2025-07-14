@@ -37,6 +37,13 @@ Besides coding, I enjoy helping others, solving challenges, and trying new thing
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=body2w&layout=compact&theme=radical)
 
 ---
+## ✨ Daily Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
 ## 📫 Contact Me
 
 <p align="left">
