@@ -37,13 +37,13 @@ Besides coding, I enjoy solving challenges, helping others, and exploring new te
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=body2w&show_icons=true&theme=radical&count_private=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=body2w&show_icons=true&theme=radical&cache_seconds=1800"
     height="170"
   />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=body2w&layout=compact&theme=radical" 
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=body2w&layout=compact&theme=radical&cache_seconds=1800"
     height="170"
   />
 </p>
