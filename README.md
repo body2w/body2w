@@ -38,12 +38,12 @@ Besides coding, I enjoy solving challenges, helping others, and exploring new te
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=body2w&show_icons=true&theme=radical&cache_seconds=1800"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=body2w&show_icons=true&theme=radical"
     height="170"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=body2w&layout=compact&theme=radical&cache_seconds=1800"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=body2w&layout=compact&theme=radical"
     height="170"
   />
 </p>
